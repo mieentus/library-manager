@@ -14,7 +14,7 @@ ensuring data is saved and loaded automatically between sessions.
 * **Persistent Storage:** Uses C++ `fstream` in binary mode to securely save and load the book catalog.
 * **Interactive UI:** Features a clear, loop-based terminal menu that clears the screen between actions for better UX.
 
-## 🛠️ Implementation Details
+## Implementation Details
 * **Language:** C++
 * **Concepts:** Binary File I/O, Structs, Pointer Casting.
 
@@ -34,6 +34,3 @@ Compile the source file
 Run the compiled executable:
 
 `./library_manager`
-
-## Technologies Used
-C++ (Standard Template Library)
